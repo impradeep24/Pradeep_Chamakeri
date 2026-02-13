@@ -1,0 +1,28 @@
+ <div class="col-md-4">
+          <div class="container">
+          <center>
+            <video src="assets/img/parade.mp4" width="350" height="350"
+            " controls muted autoplay"></video>
+          </center>
+         
+          <div class="work-content">
+            <div class="row">
+
+              <div class="card-footer">
+                <div class="post-author">
+                  <a href="#">
+                    <br>
+                  </a>
+                </div>
+                <div class="col-sm-8">
+                  <h2 class="w-title">Republic Parade-Day</h2>
+                  <div class="w-more">
+                  <span class="w-date">26<sup>th</sup>Jan 2021</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          </div>
+          </div>
